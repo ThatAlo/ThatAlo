@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThatAlo
-- 👀 I’m interested in ... learning it all
-- 🌱 I’m currently learning ... how to care less
-- 💞️ I’m looking to collaborate on ... nothing at the moment
-- 📫 How to reach me ... dont
+- 👀 I’m interested in : FRC Programming
+- 🌱 I’m currently learning : [Advanced Controls Engineering](https://file.tavsys.net/control/controls-engineering-in-frc.pdf)
+- 💞️ I’m looking to collaborate on : Literally anything
+- 📫 How to reach me : uhhhhhh shoot me a message through github somehow you're a smart cookie you can figure it out.  
